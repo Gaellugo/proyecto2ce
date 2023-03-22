@@ -1,0 +1,36 @@
+[
+    {
+        "nombre_organizacion": "Liga de Superhéroes",
+        "locacion": "Ciudad de Nueva York",
+        "fecha_formacion": "1 de enero de 1960",
+        "base_secreta": "La Fortaleza de la Soledad",
+        "estado_actividad": true,
+        "superheroes": [
+          {
+            "nombre": "Superman",
+            "edad": 35,
+            "identidad_secreta": "Clark Kent",
+            "poderes": ["Fuerza sobrehumana", "Visión de rayos X", "Super aliento"]
+          },
+          {
+            "nombre": "Batman",
+            "edad": 42,
+            "identidad_secreta": "Bruce Wayne",
+            "poderes": ["Inteligencia superior", "Maestría en artes marciales", "Equipamiento avanzado"]
+          },
+          {
+            "nombre": "Wonder Woman",
+            "edad": 28,
+            "identidad_secreta": "Diana Prince",
+            "poderes": ["Super fuerza", "Inmortalidad", "Habilidad para volar"]
+          },
+          {
+            "nombre": "Flash",
+            "edad": 25,
+            "identidad_secreta": "Barry Allen",
+            "poderes": ["Super velocidad", "Regeneración celular", "Viaje en el tiempo"]
+          }
+        ]
+      }
+      
+]
